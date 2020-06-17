@@ -17,7 +17,7 @@
   }
   #ball1 {
     left:27%;
-    animation-timing-function:liner;
+    animation-timing-function:linear;
 
   }
   #ball2 {
